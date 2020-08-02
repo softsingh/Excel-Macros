@@ -2,4 +2,5 @@
 Excel Macros by me
 
 ## Q-Kg-Gm
-Created a Function SumQKgGm(Text1, Text2). Text1 and Text2 is of form Q-Kg-Gm e.g. 15-95-500
+- AddQKgGm(Rng as Range). Add Ranges of form Q+Kg+Gm e.g. 15+95+500 .......
+- SubQKgGm(Text1, Text2). Subtract Text2 from Text1 of Q+Kg+Gm e.g. 15+95+500, 10+20+600
